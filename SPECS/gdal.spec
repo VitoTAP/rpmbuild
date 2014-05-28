@@ -40,10 +40,10 @@ Summary:   GIS file format library
 Group:     System Environment/Libraries
 License:   MIT
 URL:       http://www.gdal.org
-# Source0:   http://download.osgeo.org/gdal/gdal-%%{version}.tar.gz
+Source0:   http://download.osgeo.org/gdal/gdal-%%{version}.tar.gz
 # See PROVENANCE.TXT-fedora and the cleaner script for details!
 
-Source0:   %{name}-%{version}-fedora.tar.gz
+#Source0:   %{name}-%{version}-fedora.tar.gz
 #Source1:   http://download.osgeo.org/%{name}/%{name}autotest-%{testversion}.tar.gz
 #Source2:   %{name}.pom
 
